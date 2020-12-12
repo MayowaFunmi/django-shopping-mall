@@ -1,4 +1,4 @@
-amqp==2.6.1
+amqp==5.0.2
 appdirs==1.4.4
 arabic-reshaper==2.1.1
 asgiref==3.3.1
@@ -7,9 +7,12 @@ billiard==3.6.3.0
 blinker==1.4
 boto3==1.16.30
 botocore==1.19.30
-celery==4.4.2
+celery==5.0.4
 certifi==2019.11.28
 chardet==3.0.4
+click-didyoumean==0.0.3
+click-plugins==1.1.1
+click-repl==0.1.6
 Click==7.0
 colorama==0.4.3
 cryptography==2.8
@@ -32,7 +35,7 @@ httplib2==0.14.0
 idna==2.8
 jmespath==0.10.0
 keyring==18.0.1
-kombu==4.6.11
+kombu==5.0.2
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
@@ -50,6 +53,7 @@ pbr==5.5.1
 pexpect==4.6.0
 Pillow==7.0.0
 protobuf==3.6.1
+prompt-toolkit==3.0.8
 psycopg2-binary==2.8.6
 pycairo==1.16.2
 pycups==1.9.73
@@ -74,11 +78,12 @@ sqlparse==0.4.1
 stevedore==3.2.2
 systemd-python==234
 urllib3==1.25.8
-vine==1.3.0
+vine==5.0.0
 virtualenv==20.2.1
 virtualenv-clone==0.5.4
 virtualenvwrapper==4.8.4
 wadllib==1.3.3
+wcwidth==0.2.5
 webencodings==0.5.1
 whitenoise==5.2.0
 xhtml2pdf==0.2.5
